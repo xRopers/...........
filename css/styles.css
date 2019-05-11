@@ -1,5 +1,9 @@
 /* Title */
 #title{
-	background-color: #6B8FF7;
+	background-color: #7188D8;
 	color: white;
+}
+.navbar-image{
+	width: 40px;
+	margin-right: 10px;
 }
