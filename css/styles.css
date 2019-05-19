@@ -3,7 +3,11 @@
 	background-color: #7188D8;
 	color: white;
 }
+
 .navbar-image{
-	width: 40px;
-	margin-right: 10px;
+	width: 4.5rem;
+}
+
+.navbar{
+	padding: 0;
 }
